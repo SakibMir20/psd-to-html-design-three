@@ -1,0 +1,333 @@
+/*Start- Header CSS */
+
+@media all and (max-width: 1200px) {
+    .header-container {
+        width: 90%;
+    }
+    .header-contens .logo-a {
+        margin-left: 0;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .header-contens .logo-a {
+        width: 70px;
+    }
+}
+
+@media all and (max-width: 900px) {
+    .header-container {
+        width: 95%;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .header-contens .header-ul {
+        display: none;
+    }
+    .header-contens .visible-768px {
+        display: block;
+    }
+}
+
+@media all and (max-width: 655px) {
+    .visible-768px-ul {
+        width: 400px;
+        right: -30px;
+    }
+}
+
+
+/*End- Header CSS */
+
+
+/* Start First Section */
+
+@media all and (max-width: 768px) {
+    .first-section {
+        width: 100%;
+        min-height: 463px;
+        overflow: hidden;
+    }
+    .bg-img-first-section {
+        min-height: 100%;
+    }
+    .angle-down-a {
+        display: block;
+        margin: 70px auto 10px auto;
+        text-decoration: none;
+        width: 50px;
+    }
+}
+
+
+/* End First Section */
+
+
+/*Start- Second Section CSS */
+
+
+/* Second Section CSS NO! Need at this time */
+
+
+/*End- Second Section CSS */
+
+
+/*Start- Third Section CSS */
+
+@media all and (max-width: 1111px) {
+    .content-third-section {
+        width: 90%;
+        margin: 20px auto 0 auto;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .third-section {
+        height: 450px;
+    }
+    .content-third-section {
+        width: 80%;
+        margin: 70px auto 0 auto;
+    }
+    .content-third-section .content-box {
+        float: none;
+    }
+    .content-third-section .content-box:first-child {
+        margin-top: 0;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .content-third-section {
+        width: 95%;
+    }
+}
+
+
+/*End- Third Section CSS */
+
+
+/*Start- fourth Section CSS */
+
+@media all and (max-width: 1195px) {
+    .frth-sctn-box-contnr {
+        width: 906px;
+    }
+    .fourth-scn-box {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media all and (max-width: 1030px) {
+    .container-fourth-section {
+        width: 95%;
+        margin: 0 auto 100px auto;
+    }
+}
+
+@media all and (max-width: 976px) {
+    .frth-sctn-box-contnr {
+        width: 705px;
+        margin: 0 auto;
+    }
+    .fourth-scn-box {
+        width: 350px;
+        height: 350px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .frth-sctn-box-contnr {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .fourth-scn-box {
+        width: 450px;
+        height: 450px;
+        float: none;
+        margin: 1px auto 1px auto;
+    }
+    .fourth-scn-box .textbox .textbox-in {
+        margin: 170px auto 0 auto;
+    }
+}
+
+
+/*End- fourth Section CSS */
+
+
+/*Strat- Fifth Section CSS */
+
+@media all and (max-width: 1250px) {
+    .content-fith-seton {
+        width: 70%;
+    }
+}
+
+@media all and (max-width: 990px) {
+    .container-fifth-section {
+        position: absolute;
+        right: 0;
+        left: 0;
+    }
+    .content-fith-seton {
+        width: 80%;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .content-fith-seton {
+        width: 85%;
+    }
+}
+
+
+/*End- Fifth Section CSS */
+
+
+/*Start- Sixth Section CSS */
+
+@media all and (max-width: 1300px) {
+    .container-sixth-section {
+        width: 75%;
+    }
+}
+
+@media all and (max-width: 1150px) {
+    .caption-section-of-items-div div {
+        width: 70%;
+    }
+}
+
+@media all and (max-width: 1100px) {
+    .container-sixth-section {
+        width: 80%;
+    }
+    .item-six-section .item-img {
+        height: 42%;
+    }
+    .item-six-section .item-detils {
+        height: 58%;
+    }
+}
+
+@media all and (max-width: 950px) {
+    .container-sixth-section {
+        width: 90%;
+    }
+    .caption-section-of-items-div div {
+        width: 90%;
+    }
+    .item-six-section .item-img {
+        height: 40%;
+    }
+    .item-six-section .item-detils {
+        height: 60%;
+    }
+    .item-six-section .item-detils .item-detils-in p {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .container-sixth-section {
+        width: 95%;
+    }
+    .logo-imgs-sixth-scn .logo-img-div-sixth {
+        height: 65%;
+    }
+    .item-six-section .item-img {
+        height: 48%;
+    }
+    .item-six-section .item-detils {
+        height: 52%;
+    }
+    .item-six-section {
+        width: 47%;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .item-six-section {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+
+/*End- Sixth Section CSS */
+
+
+/* Start- Sevenxth Section */
+
+@media all and (max-width: 1220px) {
+    .container-seventh-section {
+        width: 900px;
+    }
+    .contract-section-boxs form input {
+        width: 41%;
+    }
+}
+
+@media all and (max-width: 970px) {
+    .container-seventh-section {
+        width: 710px;
+    }
+    .contract-section-texts {
+        width: 100%;
+        height: 330px;
+        float: none;
+    }
+    .contract-section-boxs form input {
+        width: 43%;
+    }
+    .contract-section-boxs {
+        width: 100%;
+    }
+    .contract-section-boxs-container {
+        margin-left: 0;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .container-seventh-section {
+        width: 520px;
+    }
+    .contract-section-texts {
+        min-height: 370px;
+    }
+    .contract-section-boxs form input {
+        width: 100%;
+    }
+    .contract-section-boxs form input:nth-child(2) {
+        float: none;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .container-seventh-section {
+        width: 93%;
+    }
+}
+
+/* End- Sevenxth Section */
+
+/* Start- Eight Section */
+@media all and (max-width: 600px) {
+	.container-eighth-section {
+    width: 100%;
+	}
+	.footer-texts {
+		width: 370px;
+		margin: 0 auto;
+	}
+	.footer-texts p {
+    font-size: 14px;
+	}
+}
+
+
+/* End- Eight Section */
